@@ -1,0 +1,6 @@
+# multi-stage build custom image to hide the scenario setup
+image: leskis/sadpod-dns-base:latest
+
+tasks:
+  - name: start the exercise
+    command: sleep 5 && echo "booyah"
