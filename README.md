@@ -4,8 +4,7 @@ A Gitpod implementation of the "Jakarta" exercise at [Sad Servers](https://sadse
 
 ## Open in Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/
-#https://github.com/lpmi-13/sadpods-dns)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lpmi-13/sadpods-dns)
 
 ## Exercise
 
