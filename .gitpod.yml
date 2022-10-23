@@ -3,5 +3,5 @@ image: leskis/sadpod-dns-base:latest
 
 tasks:
   - name: start the exercise
-    # get rid of the obvious evidence
-    command: echo "start the activity!"
+    # clean up the terminal a bit
+    command: clear && echo "start the activity!"
